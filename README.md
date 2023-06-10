@@ -4,7 +4,9 @@ Code for Raspberry Pi 4B: create a square-wave with a pulse interval of 20ms. Us
 This can be used as a template for future projects using oscillators. The phase inversion can be used to cancel the echo.
 
 Compilation:
-```g++ pulse.cpp -o pulse -lwiringPi```
+```
+g++ pulse.cpp -o pulse -lwiringPi
+```
 Assuming your rpi has wiringPi installed.
 
 Example: 
