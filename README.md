@@ -15,3 +15,6 @@ Enter period 1: 5
 Enter period 2: 4.1
 ```
 see signal.jpg
+
+
+This is not as complicated as my other github repositories, nor did I spend as much time on this one. I decided to upload this so I have some resources of my own when I make something complicated with the same principle.
