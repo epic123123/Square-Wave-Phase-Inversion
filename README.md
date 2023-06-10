@@ -7,5 +7,5 @@ This can be used as a template for future projects using oscillators. The phase 
 Enter period 1: 5
 Enter period 2: 4.1
 ```
-
-
+^
+| signal.jpg
